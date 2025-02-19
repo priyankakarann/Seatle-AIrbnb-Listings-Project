@@ -1,5 +1,4 @@
-# Seatle-AIrbnb-Listings-Project
-Seatle-AIrbnb-Listings project
+
 
 # Seatle Airbnb Listings Dashboard
 This is a data cleaning and visualization project created in entirely in Tableau from a Kaggle dataset pertaining to Airbnb listings in the Seatle area of the US from 2016
