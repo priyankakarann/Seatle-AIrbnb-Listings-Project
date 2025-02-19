@@ -7,7 +7,7 @@ This is a data cleaning and visualization project created in entirely in Tableau
 
 ## Live Dashboard
 The live dashboard can be viewed at the following link:
-https://public.tableau.com/app/profile/shaheer.kamal/viz/SeattleAirbnbOpenDataDashboard/FinalDashboard
+https://public.tableau.com/app/profile/priyanka.karan/viz/SeattleAirbnbOpenDataDashboard_17399987229620/Dashboard1?publish=yes
 
 
 ## Key metrics observed
